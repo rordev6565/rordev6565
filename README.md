@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Ruby on Rails**
 
-- 📫 How to reach me **Ruby on Rails**
+- 📫 How to reach me **stuartcrist9987@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
